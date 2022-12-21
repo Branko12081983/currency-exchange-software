@@ -1,0 +1,23 @@
+.register-div{
+	width:360px;
+	margin:0 auto;
+}
+.full-width{
+	width:100%;
+}
+label{
+margin-top:10px;		
+margin-bottom:10px;	
+font-weight:700!important;
+}
+.py-5{
+ padding-bottom:0px!important;	
+}
+.warning-input{
+border-color:#ff0000!important;
+outline:0;
+box-shadow:0 0 0 .25rem rgba(255,0,0,.25);
+}
+.no-display{
+ display:none!important;	
+}
